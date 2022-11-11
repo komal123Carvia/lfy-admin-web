@@ -1,0 +1,19 @@
+
+#col1{
+  height: 988px;
+}
+input{
+  margin:10px;
+}
+.container-fluid{
+  max-height: 3500px;
+  background-color:#f0f5f5;
+}
+#labelHi{
+  font-size: 50px;
+}
+#pWelcome{
+  font-size: 30px;
+}
+
+
